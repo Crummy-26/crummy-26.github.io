@@ -4,8 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm Zaaid — an A-level student currently working through my IALs while teaching myself to build computational tools for biology and chemistry.
+السلام عليكم ورحمة الله وبركاته,
 
+Assalamu alaikum and Hello :D
+
+I'm an A-level student currently working through my IALs while teaching myself to build computational tools for biology and chemistry.
 This blog documents my journey in this venture; the projects I'll be handling, the seas i shall explore and the experiences I will procure.
 
 ## What I'm working on
