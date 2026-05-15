@@ -1,5 +1,5 @@
 ---
-title: First blog post
+title: "First blog post"
 date: 2026-05-15
 categories:[Learning, Meta]
 tags:[growth, systems, braindump, pending_plans, firsts]
