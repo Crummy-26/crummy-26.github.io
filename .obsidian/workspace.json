@@ -11,10 +11,15 @@
             "id": "8a0856507e96cb86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-05-15-my-first-post.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-05-15-my-first-post"
             }
           }
         ]
@@ -141,16 +146,15 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "8a0856507e96cb86",
   "lastOpenFiles": [
+    "README.md",
     "_posts/2026-05-15-my-first-post.md",
+    "_tabs/tags.md",
     "_templates/blog-post.md",
     "_posts/Untitled",
     "Untitled.md",

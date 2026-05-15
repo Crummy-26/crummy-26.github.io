@@ -1,15 +1,8 @@
 ---
 title: First blog post
 date: 2026-05-15
-categories:
-  - Learning
-  - Meta
-tags:
-  - growth
-  - systems
-  - braindump
-  - pending_plans
-  - firsts
+categories:[Learning, Meta]
+tags:[growth, systems, braindump, pending_plans, firsts]
 ---
 - I have spent alot of time today into researching what can I do in terms of finance and passive incomes for when I plan to go for a university with my Alevel exams done within the next year.
 - Couldn't sleep either so I have been busy dealing with this blog's development and github.
