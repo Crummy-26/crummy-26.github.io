@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/2026-05-15-my-first-post.md",
-                "mode": "source",
-                "source": false,
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
