@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2026-05-15-WEEKLY-1.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -152,7 +152,7 @@
   },
   "active": "8a0856507e96cb86",
   "lastOpenFiles": [
-    "_posts/2026-05-15-my-first-post.md",
+    "_posts/2026-05-14-my-first-post.md",
     "_posts/2026-05-15-WEEKLY-1.md",
     "README.md",
     "_tabs/tags.md",
