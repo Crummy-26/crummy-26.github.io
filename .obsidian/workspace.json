@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/First day python.md",
+                "file": "_drafts/Week 1/d5 Research.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "First day python"
+              "title": "d5 Research"
             }
           }
         ]
@@ -152,10 +152,17 @@
   },
   "active": "8f4bf225acae5891",
   "lastOpenFiles": [
-    "_drafts/First day python.md",
+    "_templates/research-note.md",
+    "_drafts/Week 1/d5 Research.md",
+    "_templates/code-note.md",
+    "_drafts/Week 1/d1 Python.md",
+    "_drafts/Week 1",
+    "_drafts/Week 1/d4 Python.md",
+    "_drafts/Week 1/d3 Python.md",
+    "_drafts/Week 1/d2 Python.md",
+    "_posts/2026-05-14-my-first-post.md",
     "_posts/2026-05-15-WEEKLY-1.md",
     "_drafts",
-    "_posts/2026-05-14-my-first-post.md",
     "README.md",
     "_tabs/tags.md",
     "_templates/blog-post.md",
