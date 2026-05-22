@@ -3,6 +3,6 @@
   "showUnsupportedFiles": true,
   "livePreview": true,
   "defaultViewMode": "source",
-  "showLineNumber": true,
+  "showLineNumber": false,
   "strictLineBreaks": false
 }
