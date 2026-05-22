@@ -11,10 +11,15 @@
             "id": "23025b2ec8c52e0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-05-23-WEEKLY-2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-05-23-WEEKLY-2"
             }
           }
         ]
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:weekly_updates",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +65,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,11 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23025b2ec8c52e0d",
+  "active": "f98525e261757d3d",
   "lastOpenFiles": [
+    "_drafts/Week 1/d5 Research.md",
     "_drafts/Week 1/d4 Python.md",
     "_posts/2026-05-15-WEEKLY-1.md",
-    "_drafts/Week 1/d5 Research.md",
     "_posts/2026-05-23-WEEKLY-2.md",
     "_drafts/Week 1/d3 Python.md",
     "_drafts/Week 1/d2 Python.md",
