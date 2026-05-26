@@ -11,15 +11,10 @@
             "id": "36473127acdbbfa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/Week 2/d1 python rosalind.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "d1 python rosalind"
+              "title": "New tab"
             }
           }
         ]
@@ -152,6 +147,27 @@
   },
   "active": "36473127acdbbfa2",
   "lastOpenFiles": [
+    "_archive/ROSALIND_Topics_Checklist.md",
+    "_archive/ROSALIND_full_tree.canvas",
+    "_archive/Career prospects/summary.md",
+    "_archive/Career prospects/skill_building_plan.md",
+    "_archive/Career prospects/ROSALIND_Topics_Checklist.md",
+    "_archive/Career prospects/ROSALIND_full_tree.canvas",
+    "_archive/Career prospects/ROSALIND_Dependency_Checklist.md",
+    "_archive/Career prospects/education_and_career_choices.md",
+    "_archive/Career prospects/EducationPathway.md",
+    "_archive/Career prospects",
+    "_drafts/Week 2/d1 python rosalind.md",
+    "_archive/Week 2/d1 python rosalind.md",
+    "_archive/Week 1/d1 Python.md",
+    "_archive/Week 1/d5 Research.md",
+    "_archive/Week 1/d4 Python.md",
+    "_archive/Week 1/d3 Python.md",
+    "_archive/Week 1/d2 Python.md",
+    "_archive/Week 2",
+    "_archive/Week 1",
+    "_archive",
+    "_drafts/ROSALIND problems tree.md",
     "_drafts/Week 1/d5 Research.md",
     "_posts/2026-05-22-WEEKLY-2.md",
     "assets/img/posts/Jekyll-Chirpy-banner_1.png",
@@ -164,7 +180,6 @@
     "assets/img/posts/WhatsApp Image 2026-05-25 at 05.14.45 (1).jpeg",
     "assets/img/posts/WhatsApp Image 2026-05-25 at 05.14.45.jpeg",
     "assets/img/posts/WhatsApp Image 2026-05-25 at 05.14.44.jpeg",
-    "_drafts/Week 2/d1 python rosalind.md",
     "_drafts/Week 1/d4 Python.md",
     "_drafts/Week 1/d3 Python.md",
     "_drafts/Week 1/d2 Python.md",
@@ -177,10 +192,7 @@
     "_drafts/Week 1",
     "_drafts",
     "README.md",
-    "_tabs/tags.md",
-    "_templates/blog-post.md",
     "_posts/Untitled",
-    "Untitled.md",
     "_templates"
   ]
 }
