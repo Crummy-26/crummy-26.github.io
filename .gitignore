@@ -30,3 +30,4 @@ _archive/
 _templates/
 
 .obsidian/
+.obsidian/workspace.json
