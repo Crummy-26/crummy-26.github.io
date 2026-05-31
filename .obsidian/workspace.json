@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16189fe0fd890815",
+        "id": "48a5d73cb31d7512",
         "type": "tabs",
         "children": [
           {
-            "id": "36473127acdbbfa2",
+            "id": "78ceca5284d7fd01",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -80,11 +80,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_archive/Week 2/d2 python rosalind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from d2 python rosalind"
             }
           },
           {
@@ -122,33 +123,75 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_archive/Week 2/d2 python rosalind.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of d2 python rosalind"
+            }
+          },
+          {
+            "id": "361a0e268cd6d302",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "_archive/Week 2/d2 python rosalind.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for d2 python rosalind"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 328,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "canvas:Create new canvas": true,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "36473127acdbbfa2",
+  "active": "78ceca5284d7fd01",
   "lastOpenFiles": [
-    "_archive/ROSALIND_Topics_Checklist.md",
+    "_posts/2026-05-30-WEEKLY-3.md",
+    "assets/img/posts/Jekyll-Chirpy-banner_2.png",
+    "assets/img/posts/Jekyll Chirpy banner 2.png",
+    "assets/img/posts/FibonacchiRabbitscode.png",
+    "assets/img/posts/FibonacchiRabbits.png",
+    "_posts/2026-05-22-WEEKLY-2.md",
+    "_archive/Week 3/w3d1 python.md",
+    "_posts/2026-05-15-WEEKLY-1.md",
+    "_templates/research-note.md",
+    "_templates/blog-post.md",
+    "_templates/code-note.md",
+    "_archive/Week 1/w1d1 Python.md",
     "_archive/ROSALIND_full_tree.canvas",
+    "_archive/ROSALIND_full_tree.excalidraw",
+    "_archive/Week 2/w2d3 Research.md",
+    "_archive/Week 2/w2d4 python.md",
+    "_archive/Week 2/w2d1 python.md",
+    "_archive/Week 2/w2d2 python.md",
+    "_archive/Week 1/w1d2 Python.md",
+    "_archive/Week 3",
+    "assets/img/posts/FileHandling_practice_5.png",
+    "assets/img/posts/FileHandling_practice_4.png",
+    "assets/img/posts/FileHandling_practice_3.png",
+    "assets/img/posts/FileHandling_practice_2.png",
+    "assets/img/posts/FileHandling_practice_1.png",
+    "_archive/ROSALIND_Topics_Checklist.md",
+    "assets/img/posts/ROSALIND_full_tree.png",
+    "Untitled.canvas",
     "_archive/Career prospects/summary.md",
     "_archive/Career prospects/skill_building_plan.md",
     "_archive/Career prospects/ROSALIND_Topics_Checklist.md",
@@ -158,41 +201,16 @@
     "_archive/Career prospects/EducationPathway.md",
     "_archive/Career prospects",
     "_drafts/Week 2/d1 python rosalind.md",
-    "_archive/Week 2/d1 python rosalind.md",
-    "_archive/Week 1/d1 Python.md",
-    "_archive/Week 1/d5 Research.md",
-    "_archive/Week 1/d4 Python.md",
-    "_archive/Week 1/d3 Python.md",
-    "_archive/Week 1/d2 Python.md",
     "_archive/Week 2",
     "_archive/Week 1",
     "_archive",
     "_drafts/ROSALIND problems tree.md",
     "_drafts/Week 1/d5 Research.md",
-    "_posts/2026-05-22-WEEKLY-2.md",
-    "assets/img/posts/Jekyll-Chirpy-banner_1.png",
-    "assets/img/posts/FASTAfun_SampleQuestions_2.jpeg",
-    "assets/img/posts/FASTAfun_SampleQuestions_4.jpeg",
-    "assets/img/posts/FASTAfun_SampleQuestions_1.jpeg",
-    "assets/img/posts/FASTAfun_SampleQuestions_3.jpeg",
-    "assets/img/posts/Jekyll Chirpy banner 1.png",
-    "assets/img/posts/WhatsApp Image 2026-05-25 at 05.14.45 (2).jpeg",
-    "assets/img/posts/WhatsApp Image 2026-05-25 at 05.14.45 (1).jpeg",
-    "assets/img/posts/WhatsApp Image 2026-05-25 at 05.14.45.jpeg",
-    "assets/img/posts/WhatsApp Image 2026-05-25 at 05.14.44.jpeg",
     "_drafts/Week 1/d4 Python.md",
     "_drafts/Week 1/d3 Python.md",
-    "_drafts/Week 1/d2 Python.md",
-    "_drafts/Week 1/d1 Python.md",
     "_drafts/Week 2",
-    "_posts/2026-05-15-WEEKLY-1.md",
-    "_posts/2026-05-14-my-first-post.md",
-    "_templates/research-note.md",
-    "_templates/code-note.md",
     "_drafts/Week 1",
     "_drafts",
-    "README.md",
-    "_posts/Untitled",
-    "_templates"
+    "_posts/Untitled"
   ]
 }
