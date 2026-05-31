@@ -11,10 +11,15 @@
             "id": "78ceca5284d7fd01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-05-30-WEEKLY-3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-05-30-WEEKLY-3"
             }
           }
         ]
@@ -164,14 +169,14 @@
   },
   "active": "78ceca5284d7fd01",
   "lastOpenFiles": [
+    "_posts/2026-05-22-WEEKLY-2.md",
+    "_posts/2026-05-15-WEEKLY-1.md",
     "_posts/2026-05-30-WEEKLY-3.md",
+    "_archive/Week 3/w3d1 python.md",
     "assets/img/posts/Jekyll-Chirpy-banner_2.png",
     "assets/img/posts/Jekyll Chirpy banner 2.png",
     "assets/img/posts/FibonacchiRabbitscode.png",
     "assets/img/posts/FibonacchiRabbits.png",
-    "_posts/2026-05-22-WEEKLY-2.md",
-    "_archive/Week 3/w3d1 python.md",
-    "_posts/2026-05-15-WEEKLY-1.md",
     "_templates/research-note.md",
     "_templates/blog-post.md",
     "_templates/code-note.md",
