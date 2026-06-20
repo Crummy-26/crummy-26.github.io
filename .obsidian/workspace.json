@@ -11,10 +11,15 @@
             "id": "1b61a5d236d652c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-06-19-WEEKLY-4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-06-19-WEEKLY-4"
             }
           }
         ]
@@ -164,13 +169,13 @@
   },
   "active": "1b61a5d236d652c5",
   "lastOpenFiles": [
+    "_posts/2026-05-30-WEEKLY-3.md",
     "_archive/Week 4/w4d7 Python.md",
     "_archive/Week 4/w4d5 Research.md",
     "_posts/2026-06-19-WEEKLY-4.md",
     "_posts/2026-05-15-WEEKLY-1.md",
     "_posts/2026-05-22-WEEKLY-2.md",
     "_posts/2026-06-2-HIATUS-1.md",
-    "_posts/2026-05-30-WEEKLY-3.md",
     "_archive/Week 3/w3d1 Python.md",
     "_archive/Week 4/w4d1 Python.md",
     "_templates/blog-post.md",
