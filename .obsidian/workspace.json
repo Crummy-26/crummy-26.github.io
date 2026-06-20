@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b590f51b8ee47dc",
+        "id": "9142ebb5ae458b86",
         "type": "tabs",
         "children": [
           {
-            "id": "845617f4fa113a6c",
+            "id": "1b61a5d236d652c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_archive/Week 4/w4d5 Research.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "w4d5 Research"
+              "title": "New tab"
             }
           }
         ]
@@ -167,16 +162,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "845617f4fa113a6c",
+  "active": "1b61a5d236d652c5",
   "lastOpenFiles": [
-    "_archive/Week 4/w4d1 Python.md",
+    "_archive/Week 4/w4d7 Python.md",
     "_archive/Week 4/w4d5 Research.md",
+    "_posts/2026-06-19-WEEKLY-4.md",
+    "_posts/2026-05-15-WEEKLY-1.md",
+    "_posts/2026-05-22-WEEKLY-2.md",
+    "_posts/2026-06-2-HIATUS-1.md",
+    "_posts/2026-05-30-WEEKLY-3.md",
+    "_archive/Week 3/w3d1 Python.md",
+    "_archive/Week 4/w4d1 Python.md",
     "_templates/blog-post.md",
     "_templates/research-note.md",
     "_templates/code-note.md",
     "assets/img/posts/FAILED_MortalFibonacchiRabbitscode.png",
-    "_archive/Week 3/w3d1 Python.md",
-    "_posts/2026-06-2-HIATUS-1.md",
     "_posts/2026-05-14-my-first-post.md",
     "_archive/Week 1/w1d2 Python.md",
     "_archive/Week 2/w2d1 Python.md",
@@ -184,12 +184,9 @@
     "_archive/Week 2/w2d2 Python.md",
     "_archive/backend/systems/ROSALIND_full_tree.canvas",
     "_archive/backend/systems/Research_worklfow_SampleBlog.md",
-    "_posts/2026-05-30-WEEKLY-3.md",
     "assets/img/posts/Jekyll-Chirpy-banner_HIATUS.png",
     "assets/img/posts/Jekyll-Chirpy-banner-HIATUS.png",
     "assets/img/posts/Jekyll Chirpy banner HIATUS.png",
-    "_posts/2026-05-22-WEEKLY-2.md",
-    "_posts/2026-05-15-WEEKLY-1.md",
     "assets/img/posts/Jekyll-Chirpy-banner_2.png",
     "assets/img/posts/Jekyll Chirpy banner 2.png",
     "assets/img/posts/FibonacchiRabbitscode.png",
@@ -209,9 +206,7 @@
     "_archive/Career prospects/ROSALIND_full_tree.canvas",
     "_archive/Career prospects/ROSALIND_Dependency_Checklist.md",
     "_archive/Career prospects/education_and_career_choices.md",
-    "_archive/Career prospects/EducationPathway.md",
     "_archive/Career prospects",
-    "_drafts/Week 2/d1 python rosalind.md",
     "_archive/Week 2",
     "_archive/Week 1",
     "_archive",
